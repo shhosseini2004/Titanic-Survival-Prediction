@@ -29,7 +29,7 @@ The notebook walks through the following essential data science workflow:
 ## 🎯 How to Run Locally
 1.  **Clone the Repository:**
 ```bash
-git clone https://github.com/YourUsername/Titanic-Survival-Prediction.git
+git clone https://github.com/shhosseini2004/Titanic-Survival-Prediction.git
 cd Titanic-Survival-Prediction
 
 2. **Install Dependencies:**
