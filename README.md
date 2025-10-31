@@ -42,7 +42,7 @@ cd Titanic-Survival-Prediction
    
 3. **Run the Notebook:**
    # Open JupyterLab or Notebook
-   jupyter lab
+   jupyter lab 
    # or
    jupyter notebook
    
