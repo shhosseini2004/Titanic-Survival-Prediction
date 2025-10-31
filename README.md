@@ -31,3 +31,19 @@ The notebook walks through the following essential data science workflow:
 ```bash
 git clone https://github.com/YourUsername/Titanic-Survival-Prediction.git
 cd Titanic-Survival-Prediction
+
+2. **Install Dependencies:**
+   # Create and activate a virtual environment (recommended)
+   # python -m venv venv
+   # source venv/bin/activate  (On Linux/macOS) or venv\Scripts\activate (On Windows)
+
+   # Install required packages
+   pip install pandas numpy matplotlib seaborn scikit-learn xgboost
+   
+3. **Run the Notebook:**
+   # Open JupyterLab or Notebook
+   jupyter lab
+   # or
+   jupyter notebook
+   
+   # Navigate to the notebook file (e.g., Session 15 - Mini Project 3 - Titanic.ipynb) and run all cells.
