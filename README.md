@@ -1,6 +1,5 @@
 # Titanic-Survival-Prediction
 Machine Learning project to predict passenger survival from the Titanic dataset using a Jupyter Notebook.
-# Titanic Survival Prediction
 
 ![Titanic Image Placeholder](https://via.placeholder.com/800x300?text=Titanic+Survival+Analysis)
 
